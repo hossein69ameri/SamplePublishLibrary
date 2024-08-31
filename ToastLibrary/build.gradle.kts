@@ -52,7 +52,7 @@ afterEvaluate {
 
                 groupId = "com.github.hossein69ameri"
                 artifactId = "toast-library-compose"
-                version = "1.0"
+                version = "1.0.0"
             }
         }
     }
